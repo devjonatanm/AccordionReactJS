@@ -1,2 +1,1 @@
 # AccordionReactJS
-Created with CodeSandbox
